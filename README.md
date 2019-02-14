@@ -16,3 +16,7 @@ Sayuka api is a very simple api but that fulfills its purpose- All the api only 
 
 ```/master/api/v2/dance.json```
 
+# Discord server
+https://discord.gg/S3zp8fF
+
+If you like the API and you want it to continue, please do not abuse it so it does not crash.
