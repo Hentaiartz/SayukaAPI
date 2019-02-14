@@ -11,7 +11,7 @@ If you like the API and you want it to continue, please do not abuse it so it do
 
 ```/master/api/v2/neko.json```
 
-```/master/api/v2/dab.json``` **ncomplete**
+```/master/api/v2/dab.json``` **Incomplete**
 
 ```/master/api/v2/boom.json``` **Incomplete**
 
