@@ -35,4 +35,4 @@ A basic example of how to use the api
 ```
 The format is the same you just have to change Endpoint
 
-# js (Java Script)
+# py (Python)
