@@ -23,7 +23,7 @@ A basic example of how to use the api in DBM
       "user": "",
       "pass": "",
       "url": "https://raw.githubusercontent.com/Hentaiartz/SayukaAPI/master/api/v2/rape.json",
-      "path": "$[0].url${tempVars(\"Random_Number\")}",
+      "path": "url${tempVars(\"Random_Number\")}",
       "storage": "1",
       "varName": "INFO.URL",
       "debugMode": "1",
