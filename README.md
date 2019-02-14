@@ -1,6 +1,7 @@
 # SayukaAPI
 
 Sayuka api is a very simple api but that fulfills its purpose- All the api only use .json simple but easy to use.
+If you like the API and you want it to continue, please do not abuse it so it does not crash.
 
 # Base url
 ```https://raw.githubusercontent.com/Hentaiartz/SayukaAPI```
@@ -19,4 +20,3 @@ Sayuka api is a very simple api but that fulfills its purpose- All the api only 
 # Discord server
 https://discord.gg/S3zp8fF
 
-If you like the API and you want it to continue, please do not abuse it so it does not crash.
