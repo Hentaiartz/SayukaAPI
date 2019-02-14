@@ -39,16 +39,14 @@ The format is the same you just have to change Endpoint
 A basic example of how to use the api in py
 
 ```py
+import urllib.request as request
 import json
 import random
 
 def get_links():
     url = 'https://raw.githubusercontent.com/Hentaiartz/SayukaAPI/master/api/v2/rape.json'
     json_f = request.urlopen(url).read().decode('utf-8')
-    correct_json = json_f.replace("'",'"')
-    correct_json = correct_json.replace("[",' ')
-    correct_json = correct_json.replace("]",' ')
-    json_final = json.loads(correct_json)
+    json_final = json.loads(json_f)
     
     return json_final
 
@@ -62,7 +60,8 @@ def random_link(links):
 def master():
     my_links = get_links()
     key = random_link(my_links)
-    print(f'The link is {my_links[key]}')
+
+    return my_links[key]
 
 master()
 ```
