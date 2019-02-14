@@ -2,6 +2,7 @@
 In this documentation you can find basic examples of how to obtain API information
 
 # DBM (Discord Bot Maker)
+A basic example of how to use the api
 
 ```js
 {
@@ -32,3 +33,6 @@ In this documentation you can find basic examples of how to obtain API informati
   ]
 }
 ```
+The format is the same you just have to change Endpoint
+
+# js (Java Script)
