@@ -18,6 +18,6 @@ If you like the API and you want it to continue, please do not abuse it so it do
 ```/master/api/v2/dance.json```
 
 # Discord server + Documentation
-
-https://discord.gg/S3zp8fF
+**Documentation:** https://github.com/Hentaiartz/SayukaAPI/blob/master/Documentation.markdown
+**Discord:** https://discord.gg/S3zp8fF
 
