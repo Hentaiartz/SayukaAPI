@@ -7,7 +7,11 @@ If you like the API and you want it to continue, please do not abuse it so it do
 ```https://raw.githubusercontent.com/Hentaiartz/SayukaAPI```
  
 # Endpoints
+**NSFW Endpoints**
+
 ```/master/api/v2/rape.json``` **//It's nsfw**
+
+**SFW Endpoints**
 
 ```/master/api/v2/neko.json```
 
