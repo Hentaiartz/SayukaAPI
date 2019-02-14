@@ -22,4 +22,6 @@ If you like the API and you want it to continue, please do not abuse it so it do
 
 **Discord:** https://discord.gg/S3zp8fF
 
+
 Create by ***Hentaiartz#0666***
+With the help of ***Dofus#1284 Sr.Huevo#3993***
