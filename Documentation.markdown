@@ -15,7 +15,7 @@ A basic example of how to use the api in DBM
       "storage": "1",
       "varName": "Random_Number",
       "min": "1",
-      "max": "110",
+      "max": "200",
       "name": "Generate Random Number"
     },
     {
