@@ -1,5 +1,8 @@
 # Quickstart
 In this documentation you can find basic examples of how to obtain API information
+**Advice**
+Create a random number generator of the number 0-{most of the answers}. Include it in the patch: url{your random number}
+
 
 # DBM (Discord Bot Maker)
 A basic example of how to use the api in DBM
