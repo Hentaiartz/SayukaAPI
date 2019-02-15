@@ -11,15 +11,13 @@ If you like the API and you want it to continue, please do not abuse it so it do
 
 ```/master/api/v2/rape.json``` **//It's nsfw**
 
+```/master/api/v2/lewrd.json``` **//It's nsfw**
+
 **SFW Endpoints**
 
 ```/master/api/v2/neko.json```
 
 ```/master/api/v2/dab.json``` 
-
-```/master/api/v2/boom.json``` **Incomplete**
-
-```/master/api/v2/dance.json``` **Incomplete**
 
 # Discord server + Documentation
 **Documentation:** https://github.com/Hentaiartz/SayukaAPI/blob/master/Documentation.markdown
