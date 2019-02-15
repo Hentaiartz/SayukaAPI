@@ -2,6 +2,7 @@
 In this documentation you can find basic examples of how to obtain API information
 
 **Advice**
+
 Create a random number generator of the number 0-{most of the answers}. Include it in the patch: url{your random number}
 
 
