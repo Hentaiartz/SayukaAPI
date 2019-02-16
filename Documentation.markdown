@@ -76,4 +76,11 @@ The format is the same you just have to change Endpoint
 # js (Java Script)
 A basic example of how to use the api in JS
 
+**Requires** ***node-superfetch***
+
 ```js
+const request = require('node-superfetch')
+ let { body } = await request.get('https://raw.githubusercontent.com/Hentaiartz/SayukaAPI/master/api/v2/lewrd.json')
+let index = 'url' +  Math.floor(Math.random() * 210) 
+message.channel.send(JSON.parse(body)[index])
+```
