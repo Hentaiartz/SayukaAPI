@@ -73,7 +73,7 @@ def link(election, context = ''):
 ```
 The format is the same you just have to change Endpoint
 
-# js (Java Scritp)
+# js (Java Script)
 A basic example of how to use the api in JS
 
 ```js
