@@ -20,8 +20,8 @@ If you like the API and you want it to continue, please do not abuse it so it do
 ```/api/v2/key=<Your Token>/dab```
 
 # How to get a key?
-
 Requirements to obtain a key from SayukaAPI
+
 **Be united to the server of sayuka:** https://discord.gg/S3zp8fF
 
 **Once you have joined you will be able to read all the requirements in the API channel**
