@@ -1,23 +1,23 @@
 # SayukaAPI
 
-Sayuka api is a very simple api but that fulfills its purpose- All the api only use .json simple but easy to use.
+Sakuya api es un api simple y muy rápido de usar
 If you like the API and you want it to continue, please do not abuse it so it does not crash.
 
 # Base url
-```https://raw.githubusercontent.com/Hentaiartz/SayukaAPI```
+```https://sayuka-api-v2.herokuapp.com```
  
 # Endpoints
 **NSFW Endpoints**
 
-```/master/api/v2/rape.json``` **//It's nsfw**
+```/api/v2/key=<Your Token>/rape``` **//It's nsfw**
 
-```/master/api/v2/lewrd.json``` **//It's nsfw**
+```/api/v2/key=<Your Token>/lewrd``` **//It's nsfw**
 
 **SFW Endpoints**
 
-```/master/api/v2/neko.json```
+```/api/v2/key=<Your Token>/neko```
 
-```/master/api/v2/dab.json``` 
+```/api/v2/key=<Your Token>/dab``` 
 
 # Discord server + Documentation
 **Documentation:** https://github.com/Hentaiartz/SayukaAPI/blob/master/Documentation.markdown
