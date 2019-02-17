@@ -22,6 +22,8 @@ If you like the API and you want it to continue, please do not abuse it so it do
 # Discord server + Documentation
 **Documentation:** https://github.com/Hentaiartz/SayukaAPI/blob/master/Documentation.markdown
 
+**Web:** https://hentaiartz.github.io/SayukaAPI/Home.html
+
 **Discord:** https://discord.gg/S3zp8fF
 
 
