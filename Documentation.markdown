@@ -1,11 +1,6 @@
 # Quickstart
 In this documentation you can find basic examples of how to obtain API information
 
-**Advice**
-
-Create a random number generator of the number 0-{most of the answers}. Include it in the patch: url{your random number}
-
-
 # DBM (Discord Bot Maker)
 A basic example of how to use the api in DBM
 
@@ -17,23 +12,26 @@ A basic example of how to use the api in DBM
   "_id": "DbqBZ",
   "actions": [
     {
-      "storage": "1",
-      "varName": "Random_Number",
-      "min": "1",
-      "max": "200",
-      "name": "Generate Random Number"
-    },
-    {
       "token": "",
       "user": "",
       "pass": "",
-      "url": "https://raw.githubusercontent.com/Hentaiartz/SayukaAPI/master/api/v2/neko.json",
-      "path": "url${tempVars(\"Random_Number\")}",
+      "url": "https://sayuka-api-v2.herokuapp.com/api/v2/key=<Your Token>/neko",
+      "path": "url",
       "storage": "1",
       "varName": "INFO.URL",
       "debugMode": "1",
       "headers": "",
       "name": "Store Json From WebAPI"
+    },
+    {
+      "channel": "0",
+      "varName": "",
+      "message": "${tempVars(\"INFO.URL\")}",
+      "storage": "0",
+      "varName2": "",
+      "iffalse": "0",
+      "iffalseVal": "",
+      "name": "Send Message"
     }
   ]
 }
@@ -84,3 +82,5 @@ const request = require('node-superfetch')
 let index = 'url' +  Math.floor(Math.random() * 210) 
 message.channel.send(JSON.parse(body)[index])
 ```
+The format is the same you just have to change Endpoint
+
