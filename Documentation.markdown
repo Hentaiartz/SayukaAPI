@@ -63,9 +63,17 @@ A basic example of how to use the api in JS
 
 ```js
 const request = require('node-superfetch')
- let { body } = await request.get('https://raw.githubusercontent.com/Hentaiartz/SayukaAPI/master/api/v2/lewrd.json')
-let index = 'url' +  Math.floor(Math.random() * 210) 
-message.channel.send(JSON.parse(body)[index])
+let { body } = await request.get('https://sayuka-api-v2.herokuapp.com/api/v2/key=Your Key/neko')
+let link = body.url
+
+const embed = new Discord.RichEmbed()
+.setTitle("Disfrutalo")
+.setImage(link)
+.setColor("RANDOM")
+.setAuthor(message.author.username, message.author.avatarURL)
+.setFooter(`SakuyaApi`)
+
+message.channel.send(embed)
 ```
 The format is the same you just have to change Endpoint
 
