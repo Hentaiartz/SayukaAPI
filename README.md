@@ -1,6 +1,6 @@
 # SayukaAPI
 
-Sakuya api es un api simple y muy rápido de usar
+Sakuya api is a simple and very fast api to use
 If you like the API and you want it to continue, please do not abuse it so it does not crash.
 
 # Base url
