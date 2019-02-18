@@ -3,6 +3,8 @@
 Sakuya api is a simple and very fast api to use
 If you like the API and you want it to continue, please do not abuse it so it does not crash.
 
+**Public key:** eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJuYW1lIjoiU2F5dWthQVBJLUtleS1TdGF0aW9uIn0.YLkTKC5-fLmdVg3dDnBB13bmaV7DPWKWig4Jludt6ZA
+
 # Base url
 ```https://sayuka-api-v2.herokuapp.com```
  
