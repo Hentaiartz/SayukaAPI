@@ -13,6 +13,8 @@ If you like the API and you want it to continue, please do not abuse it so it do
 
 ```/api/v2/key=<Your Token>/rape``` **//It's nsfw**
 
+```/api/v2/key=<Your Token>/ahegao``` **//It's nsfw**
+
 ```/api/v2/key=<Your Token>/lewrd``` **//It's nsfw**
 
 ```/api/v2/key=<Your Key>/suicide``` **//It's nsfw/sfw**
